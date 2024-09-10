@@ -1,2 +1,2 @@
-# git_challenges-
+# git_challenges
 Example challenge 
